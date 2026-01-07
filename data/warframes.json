@@ -66,12 +66,12 @@
 		"name": "Yareli",
 		"variants": [
 			{
-				"name": "Yareli Prime",
-				"pageviews": 276132
-			},
-			{
 				"name": "Yareli",
 				"pageviews": 246934
+			},
+			{
+				"name": "Yareli Prime",
+				"pageviews": 276132
 			}
 		]
 	},
@@ -245,12 +245,12 @@
 		"name": "Lavos",
 		"variants": [
 			{
-				"name": "Lavos Prime",
-				"pageviews": 188673
-			},
-			{
 				"name": "Lavos",
 				"pageviews": 180433
+			},
+			{
+				"name": "Lavos Prime",
+				"pageviews": 188673
 			}
 		]
 	},
