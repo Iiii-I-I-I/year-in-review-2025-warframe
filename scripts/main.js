@@ -23,6 +23,7 @@
                 y: {
                     drawAxis: true,
                     includeZero: true,
+                    pixelsPerLabel: 40,
                     axisLineColor: 'transparent',
                     axisLabelWidth: 0,
                 }
@@ -231,7 +232,7 @@
                     ...config.axes,
                     y: {
                         ...config.axes.y,
-                        valueRange: [0, 750],
+                        valueRange: [0, 850],
                         valueFormatter: createValueFormatter(config.locale)
                     }
                 }
