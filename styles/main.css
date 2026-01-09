@@ -279,7 +279,7 @@ section .link {
 
 .stat-value {
     color: var(--text-theme);
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: 800;
     line-height: 1;
 }
@@ -320,7 +320,7 @@ section .link {
 
 @media screen and (min-width: 900px) {
     .stats-grid {
-        --breakout-margin: -3em;
+        /* --breakout-margin: -3em; */
     }
 }
 
@@ -579,7 +579,7 @@ div[style*="bottom: 0px"] .dygraph-axis-label-y {
     background-image:
         var(--upper-gradient),
         url('../images/bg/The-Old-Peace.jpg');
-    background-position: 5%;
+    background-position: 0%;
     background-size: cover;
 }
 
