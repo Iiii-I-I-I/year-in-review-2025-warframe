@@ -212,6 +212,11 @@
             trafficGraphConfig('.traffic', 1100000, trafficAnnotations, 'hsl(189, 100%, 45%)')
         );
 
+        // graph width sometimes overflows container on load; try redrawing again after it appears
+        traffic.ready(function () {
+            traffic.resize();
+        });
+
         // =================
         //       EDITS
         // =================
@@ -246,6 +251,11 @@
             './data/edits.csv',
             editsGraphConfig('.edits', 'hsl(189, 100%, 45%)')
         );
+
+        // graph width sometimes overflows container on load; try redrawing again after it appears
+        edits.ready(function () {
+            edits.resize();
+        });
     }
 
     function initBarCharts() {
