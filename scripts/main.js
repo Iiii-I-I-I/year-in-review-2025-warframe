@@ -174,8 +174,15 @@
         // =================
 
         const trafficAnnotations = createAnnotations('Pageviews', [
-            { x: "2025/03/21", text: "Example annotation 1", tickHeight: 40 },
-            { x: "2025/05/20", text: "Example annotation 2", tickHeight: 30 },
+            { x: "2025/02/02", text: "Lavos Prime alchemized" },
+            { x: "2025/03/19", text: "Update 38.5: Techrot Encore", tickHeight: 40 },
+            { x: "2025/05/21", text: "Yareli Prime emerged" },
+            { x: "2025/06/25", text: "Update 39: Isleweaver and Operation: Eight Claw", tickHeight: 40 },
+            { x: "2025/07/18", text: "TennoCon 2025", tickHeight: 40 },
+            { x: "2025/08/26", text: "Caliban Prime acclimated" },
+            { x: "2025/10/15", text: "Update 40: The Vallis Undermind", tickHeight: 40 },
+            { x: "2025/12/10", text: "Update 41: The Old Peace", tickHeight: 80 },
+            { x: "2025/12/16", text: "Operation: Blood of Perita", tickHeight: 30 },
         ]);
         const trafficGraphConfig = (containerSelector, yAxisRange, annotations, lineColor) => {
             return {
@@ -210,12 +217,7 @@
         // =================
 
         const editsAnnotations = createAnnotations('Edits', [
-            { x: "2021/01/04", text: "RuneScape's 20th anniversary events begin" },
-            { x: "2021/02/22", text: "RuneScape: Azzanadra's Quest is released" },
-            { x: "2021/07/26", text: "RuneScape: Nodon Front is released" },
-            { x: "2021/08/18", text: "Is this annotation too high?", tickHeight: 180 },
-            { x: "2021/10/25", text: "RuneScape: TzekHaar Front is released" },
-            { x: "2021/11/25", text: "Old School: Android client beta testing begins" },
+            // { x: "2021/01/04", text: "RuneScape's 20th anniversary events begin" },
         ]);
         const editsGraphConfig = (containerSelector, lineColor) => {
             return {

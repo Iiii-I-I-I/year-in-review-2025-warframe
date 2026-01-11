@@ -609,6 +609,22 @@ div[style*="bottom: 0px"] .dygraph-axis-label-y {
     background-size: cover;
 }
 
+.vallis-undermind::before {
+    background-image:
+        var(--upper-gradient),
+        url('../images/bg/Vallis-Undermind.jpg');
+    background-position: 0%;
+    background-size: cover;
+}
+
+.isleweaver::before {
+    background-image:
+        var(--upper-gradient),
+        url('../images/bg/Isleweaver.jpg');
+    background-position: 0%;
+    background-size: cover;
+}
+
 @media screen and (max-width: 700px) {
     .update-tile {
         padding: 1.5em;
