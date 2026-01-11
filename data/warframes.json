@@ -233,6 +233,15 @@
 		]
 	},
 	{
+		"name": "Cyte-09",
+		"variants": [
+			{
+				"name": "Cyte-09",
+				"pageviews": 190972
+			}
+		]
+	},
+	{
 		"name": "Lavos",
 		"variants": [
 			{
@@ -242,6 +251,15 @@
 			{
 				"name": "Lavos Prime",
 				"pageviews": 188673
+			}
+		]
+	},
+	{
+		"name": "Dagath",
+		"variants": [
+			{
+				"name": "Dagath",
+				"pageviews": 186117
 			}
 		]
 	},
@@ -259,6 +277,58 @@
 		]
 	},
 	{
+		"name": "Saryn",
+		"variants": [
+			{
+				"name": "Saryn",
+				"pageviews": 175350
+			},
+			{
+				"name": "Saryn Prime",
+				"pageviews": 42020
+			}
+		]
+	},
+	{
+		"name": "Garuda",
+		"variants": [
+			{
+				"name": "Garuda",
+				"pageviews": 172356
+			},
+			{
+				"name": "Garuda Prime",
+				"pageviews": 51703
+			}
+		]
+	},
+	{
+		"name": "Hildryn",
+		"variants": [
+			{
+				"name": "Hildryn",
+				"pageviews": 171858
+			},
+			{
+				"name": "Hildryn Prime",
+				"pageviews": 53175
+			}
+		]
+	},
+	{
+		"name": "Nidus",
+		"variants": [
+			{
+				"name": "Nidus",
+				"pageviews": 171429
+			},
+			{
+				"name": "Nidus Prime",
+				"pageviews": 44504
+			}
+		]
+	},
+	{
 		"name": "Khora",
 		"variants": [
 			{
@@ -268,6 +338,80 @@
 			{
 				"name": "Khora Prime",
 				"pageviews": 55846
+			}
+		]
+	},
+	{
+		"name": "Chroma",
+		"variants": [
+			{
+				"name": "Chroma",
+				"pageviews": 166087
+			},
+			{
+				"name": "Chroma Prime",
+				"pageviews": 48863
+			}
+		]
+	},
+	{
+		"name": "Qorvex",
+		"variants": [
+			{
+				"name": "Qorvex",
+				"pageviews": 164623
+			}
+		]
+	},
+	{
+		"name": "Mesa",
+		"variants": [
+			{
+				"name": "Mesa",
+				"pageviews": 162530
+			},
+			{
+				"name": "Mesa Prime",
+				"pageviews": 62166
+			}
+		]
+	},
+	{
+		"name": "Ivara",
+		"variants": [
+			{
+				"name": "Ivara",
+				"pageviews": 158437
+			},
+			{
+				"name": "Ivara Prime",
+				"pageviews": 39221
+			}
+		]
+	},
+	{
+		"name": "Oberon",
+		"variants": [
+			{
+				"name": "Oberon",
+				"pageviews": 156613
+			},
+			{
+				"name": "Oberon Prime",
+				"pageviews": 41285
+			}
+		]
+	},
+	{
+		"name": "Rhino",
+		"variants": [
+			{
+				"name": "Rhino",
+				"pageviews": 152803
+			},
+			{
+				"name": "Rhino Prime",
+				"pageviews": 39995
 			}
 		]
 	},
@@ -285,6 +429,340 @@
 			{
 				"name": "Excalibur Umbra",
 				"pageviews": 77793
+			}
+		]
+	},
+	{
+		"name": "Nekros",
+		"variants": [
+			{
+				"name": "Nekros",
+				"pageviews": 151184
+			},
+			{
+				"name": "Nekros Prime",
+				"pageviews": 48526
+			}
+		]
+	},
+	{
+		"name": "Nova",
+		"variants": [
+			{
+				"name": "Nova",
+				"pageviews": 149921
+			},
+			{
+				"name": "Nova Prime",
+				"pageviews": 35613
+			}
+		]
+	},
+	{
+		"name": "Styanax",
+		"variants": [
+			{
+				"name": "Styanax",
+				"pageviews": 145081
+			}
+		]
+	},
+	{
+		"name": "Octavia",
+		"variants": [
+			{
+				"name": "Octavia",
+				"pageviews": 143809
+			},
+			{
+				"name": "Octavia Prime",
+				"pageviews": 39407
+			}
+		]
+	},
+	{
+		"name": "Titania",
+		"variants": [
+			{
+				"name": "Titania",
+				"pageviews": 142307
+			},
+			{
+				"name": "Titania Prime",
+				"pageviews": 54909
+			}
+		]
+	},
+	{
+		"name": "Ember",
+		"variants": [
+			{
+				"name": "Ember",
+				"pageviews": 139901
+			},
+			{
+				"name": "Ember Prime",
+				"pageviews": 41451
+			}
+		]
+	},
+	{
+		"name": "Revenant",
+		"variants": [
+			{
+				"name": "Revenant",
+				"pageviews": 139474
+			},
+			{
+				"name": "Revenant Prime",
+				"pageviews": 41559
+			}
+		]
+	},
+	{
+		"name": "Gara",
+		"variants": [
+			{
+				"name": "Gara",
+				"pageviews": 138909
+			},
+			{
+				"name": "Gara Prime",
+				"pageviews": 47365
+			}
+		]
+	},
+	{
+		"name": "Atlas",
+		"variants": [
+			{
+				"name": "Atlas",
+				"pageviews": 138754
+			},
+			{
+				"name": "Atlas Prime",
+				"pageviews": 38309
+			}
+		]
+	},
+	{
+		"name": "Volt",
+		"variants": [
+			{
+				"name": "Volt",
+				"pageviews": 137236
+			},
+			{
+				"name": "Volt Prime",
+				"pageviews": 50061
+			}
+		]
+	},
+	{
+		"name": "Equinox",
+		"variants": [
+			{
+				"name": "Equinox",
+				"pageviews": 136734
+			},
+			{
+				"name": "Equinox Prime",
+				"pageviews": 38182
+			}
+		]
+	},
+	{
+		"name": "Frost",
+		"variants": [
+			{
+				"name": "Frost",
+				"pageviews": 130031
+			},
+			{
+				"name": "Frost Prime",
+				"pageviews": 31600
+			}
+		]
+	},
+	{
+		"name": "Baruuk",
+		"variants": [
+			{
+				"name": "Baruuk",
+				"pageviews": 129377
+			},
+			{
+				"name": "Baruuk Prime",
+				"pageviews": 35322
+			}
+		]
+	},
+	{
+		"name": "Mirage",
+		"variants": [
+			{
+				"name": "Mirage",
+				"pageviews": 125488
+			},
+			{
+				"name": "Mirage Prime",
+				"pageviews": 33654
+			}
+		]
+	},
+	{
+		"name": "Trinity",
+		"variants": [
+			{
+				"name": "Trinity",
+				"pageviews": 122093
+			},
+			{
+				"name": "Trinity Prime",
+				"pageviews": 26691
+			}
+		]
+	},
+	{
+		"name": "Mag",
+		"variants": [
+			{
+				"name": "Mag",
+				"pageviews": 119813
+			},
+			{
+				"name": "Mag Prime",
+				"pageviews": 40042
+			}
+		]
+	},
+	{
+		"name": "Hydroid",
+		"variants": [
+			{
+				"name": "Hydroid",
+				"pageviews": 115802
+			},
+			{
+				"name": "Hydroid Prime",
+				"pageviews": 31236
+			}
+		]
+	},
+	{
+		"name": "Nyx",
+		"variants": [
+			{
+				"name": "Nyx",
+				"pageviews": 113480
+			},
+			{
+				"name": "Nyx Prime",
+				"pageviews": 47531
+			}
+		]
+	},
+	{
+		"name": "Vauban",
+		"variants": [
+			{
+				"name": "Vauban",
+				"pageviews": 112218
+			},
+			{
+				"name": "Vauban Prime",
+				"pageviews": 44413
+			}
+		]
+	},
+	{
+		"name": "Zephyr",
+		"variants": [
+			{
+				"name": "Zephyr",
+				"pageviews": 106523
+			},
+			{
+				"name": "Zephyr Prime",
+				"pageviews": 39361
+			}
+		]
+	},
+	{
+		"name": "Inaros",
+		"variants": [
+			{
+				"name": "Inaros",
+				"pageviews": 104238
+			},
+			{
+				"name": "Inaros Prime",
+				"pageviews": 37030
+			}
+		]
+	},
+	{
+		"name": "Wukong",
+		"variants": [
+			{
+				"name": "Wukong",
+				"pageviews": 102594
+			},
+			{
+				"name": "Wukong Prime",
+				"pageviews": 42511
+			}
+		]
+	},
+	{
+		"name": "Loki",
+		"variants": [
+			{
+				"name": "Loki",
+				"pageviews": 101141
+			},
+			{
+				"name": "Loki Prime",
+				"pageviews": 25803
+			}
+		]
+	},
+	{
+		"name": "Nezha",
+		"variants": [
+			{
+				"name": "Nezha",
+				"pageviews": 97983
+			},
+			{
+				"name": "Nezha Prime",
+				"pageviews": 40159
+			}
+		]
+	},
+	{
+		"name": "Limbo",
+		"variants": [
+			{
+				"name": "Limbo",
+				"pageviews": 91799
+			},
+			{
+				"name": "Limbo Prime",
+				"pageviews": 24237
+			}
+		]
+	},
+	{
+		"name": "Banshee",
+		"variants": [
+			{
+				"name": "Banshee",
+				"pageviews": 76872
+			},
+			{
+				"name": "Banshee Prime",
+				"pageviews": 21677
 			}
 		]
 	}
