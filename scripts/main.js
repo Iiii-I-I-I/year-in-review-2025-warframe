@@ -177,6 +177,7 @@
             { x: "2025/02/02", text: "Lavos Prime alchemized" },
             { x: "2025/03/19", text: "Update 38.5: Techrot Encore", tickHeight: 40 },
             { x: "2025/05/21", text: "Yareli Prime emerged" },
+            { x: "2025/06/05", text: "First Prime Resurgence for Revenant and Baruuk" },
             { x: "2025/06/25", text: "Update 39: Isleweaver and Operation: Eight Claw", tickHeight: 40 },
             { x: "2025/07/18", text: "TennoCon 2025", tickHeight: 40 },
             { x: "2025/08/26", text: "Caliban Prime acclimated" },

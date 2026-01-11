@@ -601,6 +601,16 @@ div[style*="bottom: 0px"] .dygraph-axis-label-y {
     opacity: 0.8;
 }
 
+.most-visited::before {
+    background-image:
+        var(--upper-gradient),
+        url('https://wiki.warframe.com/images/Baro_KiTeer_TennoCon.jpeg?95ffa');
+        /* url('https://wiki.warframe.com/images/thumb/Tenno_in_action.jpeg/1280px-Tenno_in_action.jpeg?57260'); */
+        /* url('https://wiki.warframe.com/images/thumb/OraxiaPromoKeyArt.png/1280px-OraxiaPromoKeyArt.png?11063; */
+    background-position: 20%;
+    background-size: cover;
+}
+
 .old-peace::before {
     background-image:
         var(--upper-gradient),
