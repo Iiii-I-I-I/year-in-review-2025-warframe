@@ -281,11 +281,14 @@
         }
 
         function createBarSegment(variant, maxTotal) {
-            const segment = document.createElement('div');
+            const segment = document.createElement('a');
             const percentage = (variant.pageviews / maxTotal) * 100;
             const tooltip = createTooltip(variant);
 
             segment.classList.add('bar-segment', 'tooltip-hidden');
+            segment.target = '_blank'
+            segment.rel = 'noopener';
+            segment.href = 'https://wiki.warframe.com/w/' + encodeURIComponent(variant.name);
             segment.style.width = percentage + '%';
             segment.appendChild(tooltip);
 
